@@ -1,12 +1,11 @@
 # Web Traffic Forecasting Project
 
 ## Overview
-
-This project forecasts web traffic for the upcoming week using deep learning models (RNN, LSTM, GRU). Accurate traffic predictions help businesses optimize marketing, manage server loads, and improve user engagement.
+In this project, we experiment with different types of Recurrent Neural Networks (RNN, LSTM, GRU) to find the best model for web traffic forecasting, evaluating each model's performance and selecting the most accurate one for the task.
 
 ## Business Problem
 
-For online businesses, understanding traffic patterns is essential to:
+For online businesses, accurately predicting website traffic patterns is critical for operational efficiency and strategic planning. Sudden traffic surges can overwhelm servers, leading to potential downtime, missed opportunities, and reputational damage. Conversely, periods of low traffic may indicate ineffective marketing or suboptimal engagement with target audiences.
 
 - **Optimize Marketing**: Schedule promotions and target ads when traffic is expected to peak.
 - **Manage Server Capacity**: Prepare for traffic surges to avoid downtime and ensure smooth user experiences.
