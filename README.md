@@ -30,7 +30,7 @@ Three deep learning models were tested for this forecasting task:
 3. **GRU (Gated Recurrent Unit)**  
    GRUs are a simplified version of LSTMs, often providing similar accuracy with fewer parameters, which can lead to faster training times.
 
-![Model Comparison](path/to/your/image.png)
+![Model Comparison](images/Model_comparsion.png)
 
 *Figure: Comparison of RNN, LSTM, and GRU models based on forecasting performance.*
 
