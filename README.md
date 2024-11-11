@@ -25,9 +25,6 @@ Three deep learning models were tested for this forecasting task:
 
 ![Model Comparison](images/Model_comparsion.png)
 
-Here's an updated **Results** section with a focus on why the RNN performed best, along with a **Future Directions** section that encourages experimentation with different models. I've made the future work suggestions a bit more creative, emphasizing ways to push the project forward.
-
----
 
 ## Results
 
