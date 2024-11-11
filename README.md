@@ -1,6 +1,6 @@
 # Web Traffic Forecasting Project
 ## Overview
-In this project, we experiment with different types of Recurrent Neural Networks (RNN, LSTM, GRU) to find the best model for web traffic forecasting, evaluating each model's performance and selecting the most accurate one for the task.
+The goal of this project is to explore deep learning techniques for web traffic forecasting, rather than to develop a complete forecasting system. We experiment with different types of Recurrent Neural Networks (RNN, LSTM, GRU) to evaluate their effectiveness in predicting web traffic patterns. By comparing the performance of these models, the project demonstrates deep learning skills in time series forecasting, identifying the best model for this specific task.
 
 ## Business Problem
 
