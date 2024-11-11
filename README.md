@@ -1,8 +1,3 @@
-# Web-Traffic-Forecasting
-Got it! Here’s an updated README structure that includes a **Model Comparison** section where you can describe and compare the models you used, alongside a picture for visual reference. This version is still concise but lets you showcase your model evaluation and decision-making process effectively.
-
----
-
 # Web Traffic Forecasting Project
 
 ## Overview
