@@ -25,7 +25,7 @@ Three deep learning models were tested for this forecasting task:
 
 ![Model Comparison](images/Model_comparsion.png)
 
-
+ 
 ## Results
 
 After comparing model performance, the **RNN** was chosen as the best model for predicting web traffic patterns. Although more advanced models like LSTM and GRU are designed to capture complex, long-term dependencies, the relatively straightforward nature of this dataset allowed the RNN to perform well. RNNs have a simpler structure that can make them more efficient and less prone to overfitting on less complex datasets, and in this case, they generalized better to the validation data.
@@ -37,3 +37,7 @@ After comparing model performance, the **RNN** was chosen as the best model for 
 
 3. **Incorporate External Data Sources**: Integrate additional data sources, like social media engagement or search trends, which could correlate with traffic spikes. Adding these external signals might make the model more robust and help it anticipate sudden changes in traffic.
 
+  ## Contact
+If you have any questions or would like to discuss this project further, feel free to reach out!
+* [LinkedIn](https://www.linkedin.com/in/hadeel-als-0a23702a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app ) 
+* [Email](alsadonhadeel@gmail.com) 
